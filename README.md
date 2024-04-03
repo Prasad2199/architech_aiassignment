@@ -16,4 +16,4 @@ Setup Instructions
 
 Clone the repository:
 
-git clone https://github.com/yourusername/cms-api.git
+git clone https://github.com/Prasad2199/architech_aiassignment.git
